@@ -1,5 +1,6 @@
 import $ from 'jquery';
-import './index.css'
+import 'normalize.css';
+import './index.css';
 import shoppingList from './shopping-list';
 
 const main = function () {
